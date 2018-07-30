@@ -1,0 +1,9 @@
+﻿
+
+namespace ImportApp
+{
+    class ServiceSender
+    {
+       
+    }
+}
